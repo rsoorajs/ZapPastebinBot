@@ -3,7 +3,7 @@ from telebot import types
 import telebot
 import random
 import json
-token = "939385469:AAEwKg2nPGGsqn2GjN2kc2Nsp6SMEsLWOls"
+token = ""
 # Обходим блокировку с помощью прокси
 telebot.apihelper.proxy = {'https': 'socks5h://geek:socks@t.geekclass.ru:7777'}
 ran = 0
