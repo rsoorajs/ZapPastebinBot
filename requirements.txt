@@ -2,3 +2,4 @@ python-telegram-bot
 pytelegrambotapi
 telebot
 request[socks]
+pysocks
